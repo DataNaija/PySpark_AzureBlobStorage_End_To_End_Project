@@ -8,9 +8,8 @@ Resources Used:
 * Microsoft Azure
 * Pyspark
 
-  graph TD;
-  Azure Blob --> DataBricks;
-  Databricks --> Business Insight;
+  ## Workflow
+  Azure Blob --> DataBricks--> Business Insight;
    
 ![alt text](https://github.com/DataNaija/PySpark_End_To_End_Project/blob/main/Screns1.png)
 ![alt text](https://github.com/DataNaija/PySpark_End_To_End_Project/blob/main/Screns2.png)
